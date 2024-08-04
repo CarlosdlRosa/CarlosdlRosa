@@ -11,7 +11,7 @@ I am eagerly looking for my first job as a Data Analyst. My goal is to apply my 
 - **Intermediate:** SQL, Python (Pandas, Numpy, Seaborn), R (Tidyverse), Tableau
 
 ## 📜 Certifications
-- Google Data Analytics Certificate
+- Google Data Analytics Certificate (March 2024 - June 2024)
 
 ## 🏆 Professional Experience
 - **International SOS (Prague, Czech Republic):** Worked for almost a year as an administrative assistant, collaborating with a highly competent and multicultural team.
