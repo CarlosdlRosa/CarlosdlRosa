@@ -9,7 +9,7 @@ I am eagerly looking for my first job as a Data Analyst. My goal is to apply my 
 ## 💡 Skills
 - **Advanced:** Excel, PowerPoint
 - **Intermediate:** SQL, Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau
-- **Begginer:**: R (Tidyverse)
+- **Begginer:** R (Tidyverse)
 
 ## 📜 Certifications
 - Google Data Analytics Certificate (March 2024 - June 2024)
