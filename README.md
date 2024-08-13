@@ -3,6 +3,8 @@
 ## 🌟 About Me
 I am a passionate Junior Data Analyst in a constant process of learning and development. With a strong foundation in Hispanic Philology and Literary Studies, I am currently in a beautiful and thrilling phase of reshaping my professional career. This journey feels like being 'reborn' both professionally and personally.
 
+🔗 **Check out my [Data Analyst Portfolio](https://github.com/CarlosdlRosa/DataAnalystPortfolio) to see my projects and skills in action.**
+
 ## 💼 Career Objectives
 I am eagerly looking for my first job as a Data Analyst. My goal is to apply my skills in a business environment and to enhance all the knowledge and technical skills I have acquired over the past few months.
 
