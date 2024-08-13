@@ -9,7 +9,7 @@ I am eagerly looking for my first job as a Data Analyst. My goal is to apply my 
 ## 💡 Skills
 - **Advanced:** Excel, PowerPoint
 - **Intermediate:** SQL, Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau
-- **Begginer:** R (Tidyverse)
+- **Beginner:** R (Tidyverse)
 
 ## 📜 Certifications
 - Google Data Analytics Certificate (March 2024 - June 2024)
@@ -20,6 +20,8 @@ I am eagerly looking for my first job as a Data Analyst. My goal is to apply my 
 
 ## 📫 How to Reach Me
 - Email: [carlosdelarosamoral@gmail.com](mailto:carlosdelarosamoral@gmail.com)
+- LinkedIn: [Carlos de la Rosa Moral](https://www.linkedin.com/in/carlos-de-la-rosa-moral-41a837192/)
+
 
 <!---
 CarlosdlRosa/CarlosdlRosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
