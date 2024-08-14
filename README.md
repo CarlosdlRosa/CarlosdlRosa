@@ -9,8 +9,8 @@ I am a passionate Junior Data Analyst in a constant process of learning and deve
 I am eagerly looking for my first job as a Data Analyst. My goal is to apply my skills in a business environment and to enhance all the knowledge and technical skills I have acquired over the past few months.
 
 ## 💡 Skills
-- **Advanced:** Excel, PowerPoint
-- **Intermediate:** SQL, Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau
+- **Advanced:** Excel, Microsoft Office, SQL
+- **Intermediate:** Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau
 - **Beginner:** R (Tidyverse)
 
 ## 📜 Certifications
