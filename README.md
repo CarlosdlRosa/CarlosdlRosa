@@ -10,7 +10,7 @@ I am eagerly looking for my first job as a Data Analyst. My goal is to apply my 
 
 ## 💡 Skills
 - **Advanced:** Excel, Microsoft Office, SQL
-- **Intermediate:** Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau
+- **Intermediate:** Python (Pandas, Numpy, Matplotlib, Seaborn), Microsoft Power BI, Tableau
 - **Beginner:** R (Tidyverse)
 
 ## 📜 Certifications
