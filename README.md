@@ -18,7 +18,7 @@ I am eagerly looking for my first job as a Data Analyst. My goal is to apply my 
 
 ## 🏆 Professional Experience
 - **International SOS (Prague, Czech Republic):** Worked for almost a year as an administrative assistant, collaborating with a highly competent and multicultural team.
-- **Federal Institute in the South of Brazil:** Currently leading a Spanish course for teachers.
+- **Federal Institute in the South of Brazil:** Leaded a Spanish course for teachers for a whole course.
 
 ## 📫 How to Reach Me
 - Email: [carlosdelarosamoral@gmail.com](mailto:carlosdelarosamoral@gmail.com)
